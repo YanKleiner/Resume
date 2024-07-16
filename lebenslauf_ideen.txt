@@ -1,0 +1,17 @@
+Here is the updated work experience section with the adjusted bullet points that you can easily copy and paste into a Word document:
+
+---
+
+**Fraunhofer Institute, Software Engineering**
+
+**Position**: Research Assistant  
+**Dates**: 01.03.2024 - 01.09.2024  
+**Responsibilities**:
+- Assisted in the development of a communication API for emerging energy systems by testing and integrating use cases of the EEBus Energy Protocol in Java.
+- Supported the implementation of effective data exchange mechanisms using the EEBus Energy Protocol, resulting in a 30% reduction in latency.
+- Utilized Git and GitLab for version control, ensuring seamless collaboration among a team of 10.
+- Contributed to the integration of the API into existing projects by adding code and testing the EEBus Energy Protocol, enhancing operational efficiency by 25%.
+
+---
+
+You can copy this text and paste it directly into your resume document. Let me know if you need further adjustments or assistance!
